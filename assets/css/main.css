@@ -64,7 +64,7 @@ body {
 	transform: scale(1);
 }
 .test1:hover{
-	transform: scale(2.3);
+	transform: scale(1.4 , 1.4);
 }
 .project{
 transform: scale(1);
