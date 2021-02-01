@@ -55,6 +55,23 @@ body {
 	-webkit-text-size-adjust: none;
 }
 
+.pics{
+	width: 200px;
+	height: 200px; 
+	border-radius: 50%;
+}
+.test1{
+	transform: scale(1);
+}
+.test1:hover{
+	transform: scale(2.3);
+}
+.project{
+transform: scale(1);
+}
+.project:hover{
+	transform: scale(1.4, 1.7);
+}
 mark {
 	background-color: transparent;
 	color: inherit;
